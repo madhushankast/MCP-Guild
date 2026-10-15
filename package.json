@@ -1,0 +1,24 @@
+{
+  "name": "mcp-guild",
+  "version": "1.0.0",
+  "description": "Welcome to the official repository for the **MCP Guild**!",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhushankast/MCP-Guild.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/madhushankast/MCP-Guild/issues"
+  },
+  "homepage": "https://github.com/madhushankast/MCP-Guild#readme"
+}
